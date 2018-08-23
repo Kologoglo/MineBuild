@@ -1,0 +1,5 @@
+{"versions-info": {
+		"versions": ["MineBuild-1.4-alpha.jar","MineBuild-1.5-alpha.jar","MineBuild-1.6-alpha.jar"],
+		"latest":"MineBuild-1.6-alpha.jar"
+	}
+}
