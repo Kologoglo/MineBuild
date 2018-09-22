@@ -1,7 +1,7 @@
 {"versions-info": {
 		
 	"versions": ["MineBuild-1.6-alpha.jar","MineBuild-1.6.1-alpha.jar","MB-multiplayer_testbuild1.jar",
-		"MB-multiplayer_testbuild2.jar"],
+		"MB-multiplayer_testbuild2.jar","MB-multiplayer_testbuild3.jar"],
 
 	"latest":"MineBuild-1.6.1-alpha.jar"
 	
